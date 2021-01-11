@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://my-json-server.typicode.com/shripad-agashe/fake-api';
